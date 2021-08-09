@@ -1,0 +1,16 @@
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\bin\Debug\netcoreapp3.1\ProcesamientoImagenes.exe
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\bin\Debug\netcoreapp3.1\ProcesamientoImagenes.deps.json
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\bin\Debug\netcoreapp3.1\ProcesamientoImagenes.runtimeconfig.json
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\bin\Debug\netcoreapp3.1\ProcesamientoImagenes.runtimeconfig.dev.json
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\bin\Debug\netcoreapp3.1\ProcesamientoImagenes.dll
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\bin\Debug\netcoreapp3.1\ProcesamientoImagenes.pdb
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.Form1.resources
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.Properties.Resources.resources
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.csproj.GenerateResource.cache
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.AssemblyInfoInputs.cache
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.AssemblyInfo.cs
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.dll
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.pdb
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.genruntimeconfig.cache
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.HomeControl.resources
