@@ -14,3 +14,5 @@ C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\ob
 C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.pdb
 C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.genruntimeconfig.cache
 C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.HomeControl.resources
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.DeteccionMovController.resources
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.FiltrosControl.resources
