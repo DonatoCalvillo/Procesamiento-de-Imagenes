@@ -31,6 +31,7 @@ namespace ProcesamientoImagenes
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.panelMenu = new System.Windows.Forms.Panel();
+            this.sidePanel = new System.Windows.Forms.Panel();
             this.btnConfig = new System.Windows.Forms.Button();
             this.btnDeteccion = new System.Windows.Forms.Button();
             this.btnFoto = new System.Windows.Forms.Button();
@@ -38,6 +39,8 @@ namespace ProcesamientoImagenes
             this.panelSuperior = new System.Windows.Forms.Panel();
             this.panel1 = new System.Windows.Forms.Panel();
             this.homeControl1 = new ProcesamientoImagenes.HomeControl();
+            this.deteccionMovController1 = new ProcesamientoImagenes.DeteccionMovController();
+            this.filtrosControl1 = new ProcesamientoImagenes.FiltrosControl();
             this.panelMenu.SuspendLayout();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -45,6 +48,7 @@ namespace ProcesamientoImagenes
             // panelMenu
             // 
             this.panelMenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(95)))), ((int)(((byte)(132)))));
+            this.panelMenu.Controls.Add(this.sidePanel);
             this.panelMenu.Controls.Add(this.btnConfig);
             this.panelMenu.Controls.Add(this.btnDeteccion);
             this.panelMenu.Controls.Add(this.btnFoto);
@@ -54,6 +58,14 @@ namespace ProcesamientoImagenes
             this.panelMenu.Name = "panelMenu";
             this.panelMenu.Size = new System.Drawing.Size(100, 1024);
             this.panelMenu.TabIndex = 0;
+            // 
+            // sidePanel
+            // 
+            this.sidePanel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(129)))), ((int)(((byte)(168)))));
+            this.sidePanel.Location = new System.Drawing.Point(0, 0);
+            this.sidePanel.Name = "sidePanel";
+            this.sidePanel.Size = new System.Drawing.Size(8, 138);
+            this.sidePanel.TabIndex = 4;
             // 
             // btnConfig
             // 
@@ -80,6 +92,7 @@ namespace ProcesamientoImagenes
             this.btnDeteccion.TabIndex = 2;
             this.btnDeteccion.TextAlign = System.Drawing.ContentAlignment.BottomLeft;
             this.btnDeteccion.UseVisualStyleBackColor = true;
+            this.btnDeteccion.Click += new System.EventHandler(this.btnDeteccion_Click);
             // 
             // btnFoto
             // 
@@ -93,6 +106,7 @@ namespace ProcesamientoImagenes
             this.btnFoto.TabIndex = 1;
             this.btnFoto.TextAlign = System.Drawing.ContentAlignment.BottomLeft;
             this.btnFoto.UseVisualStyleBackColor = true;
+            this.btnFoto.Click += new System.EventHandler(this.btnFoto_Click);
             // 
             // btnHome
             // 
@@ -106,6 +120,7 @@ namespace ProcesamientoImagenes
             this.btnHome.TabIndex = 0;
             this.btnHome.TextAlign = System.Drawing.ContentAlignment.BottomLeft;
             this.btnHome.UseVisualStyleBackColor = true;
+            this.btnHome.Click += new System.EventHandler(this.btnHome_Click);
             // 
             // panelSuperior
             // 
@@ -114,11 +129,12 @@ namespace ProcesamientoImagenes
             this.panelSuperior.Name = "panelSuperior";
             this.panelSuperior.Size = new System.Drawing.Size(1340, 30);
             this.panelSuperior.TabIndex = 1;
-            this.panelSuperior.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panelSuperior_MouseDown);
             // 
             // panel1
             // 
             this.panel1.Controls.Add(this.homeControl1);
+            this.panel1.Controls.Add(this.deteccionMovController1);
+            this.panel1.Controls.Add(this.filtrosControl1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel1.Location = new System.Drawing.Point(100, 30);
             this.panel1.Name = "panel1";
@@ -127,10 +143,25 @@ namespace ProcesamientoImagenes
             // 
             // homeControl1
             // 
+            this.homeControl1.BackColor = System.Drawing.Color.White;
             this.homeControl1.Location = new System.Drawing.Point(0, 0);
             this.homeControl1.Name = "homeControl1";
             this.homeControl1.Size = new System.Drawing.Size(1340, 994);
             this.homeControl1.TabIndex = 0;
+            // 
+            // deteccionMovController1
+            // 
+            this.deteccionMovController1.Location = new System.Drawing.Point(0, 0);
+            this.deteccionMovController1.Name = "deteccionMovController1";
+            this.deteccionMovController1.Size = new System.Drawing.Size(1340, 994);
+            this.deteccionMovController1.TabIndex = 1;
+            // 
+            // filtrosControl1
+            // 
+            this.filtrosControl1.Location = new System.Drawing.Point(0, 0);
+            this.filtrosControl1.Name = "filtrosControl1";
+            this.filtrosControl1.Size = new System.Drawing.Size(1340, 994);
+            this.filtrosControl1.TabIndex = 2;
             // 
             // Form1
             // 
@@ -160,6 +191,9 @@ namespace ProcesamientoImagenes
         private System.Windows.Forms.Panel panelSuperior;
         private System.Windows.Forms.Panel panel1;
         private HomeControl homeControl1;
+        private System.Windows.Forms.Panel sidePanel;
+        private DeteccionMovController deteccionMovController1;
+        private FiltrosControl filtrosControl1;
     }
 }
 

@@ -15,11 +15,29 @@ namespace ProcesamientoImagenes
         public Form1()
         {
             InitializeComponent();
+            sidePanel.Height = btnHome.Height;
+            homeControl1.BringToFront();
         }
 
-        private void panelSuperior_MouseDown(object sender, MouseEventArgs e)
+        private void btnHome_Click(object sender, EventArgs e)
         {
-         
+            sidePanel.Height = btnHome.Height;
+            sidePanel.Top = btnHome.Top;
+            homeControl1.BringToFront();
+        }
+
+        private void btnFoto_Click(object sender, EventArgs e)
+        {
+            sidePanel.Height = btnFoto.Height;
+            sidePanel.Top = btnFoto.Top;
+            filtrosControl1.BringToFront();
+        }
+
+        private void btnDeteccion_Click(object sender, EventArgs e)
+        {
+            sidePanel.Height = btnDeteccion.Height;
+            sidePanel.Top = btnDeteccion.Top;
+            deteccionMovController1.BringToFront();
         }
     }
 }

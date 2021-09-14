@@ -14,3 +14,11 @@ C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\ob
 C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.pdb
 C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.genruntimeconfig.cache
 C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.HomeControl.resources
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.DeteccionMovController.resources
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.FiltrosControl.resources
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\bin\Debug\netcoreapp3.1\AForge.dll
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\bin\Debug\netcoreapp3.1\AForge.Video.dll
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\bin\Debug\netcoreapp3.1\AForge.Video.DirectShow.dll
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.csproj.CopyComplete
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.csproj.AssemblyReference.cache
+C:\Users\edgar\OneDrive\Documents\ProcesamientoImagenes\ProcesamientoImagenes\obj\Debug\netcoreapp3.1\ProcesamientoImagenes.Alertas_Form.resources

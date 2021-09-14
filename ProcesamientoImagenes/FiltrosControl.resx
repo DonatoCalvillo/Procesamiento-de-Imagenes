@@ -57,30 +57,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="label7.Text" xml:space="preserve">
-    <value>En el apartado de              podra aplicar filtros a sus fotos,
-subiendolas o tomandoselas mediante la camara de su
-computadora, los botones a la derecha le permitiran
-aplicar sus filtros de manera acumulativa. Cuando
-quede satisfecho(a) con su resultado podra guardar
-la foto en su computadora con el boton de 
-"Guardar".</value>
-  </data>
-  <data name="label5.Text" xml:space="preserve">
-    <value>Juegue con todos los filtros disponibles haciendo
-todas las combinaciones posibles. Si desea eliminar
-todos los filtros aplicados puede presionar el boton
-"Limpiar" o en caso de querer borrar un filtro en
-especifico presionar el boton del filtro otra vez.
-</value>
-  </data>
-  <data name="label8.Text" xml:space="preserve">
-    <value>En el apartado de               podra usar la herramienta de detección de movimiento,
-usando la camara de su computadora. Para utilizar de manera correcta esta función
-habilite primero la camara que requiera, eligiendo su cámara de preferencia y 
-presionando el boton de  "Activar  cámara", una vez activada puede presionar el botón
-"Detección de personas" para poder ver los resultados en pantalla, en donde aparecera
-de diferentes colores la detección de personas, para ver mas a fondo cada color a un lado
-viene la nomenclatura o el significado de cada color.</value>
-  </data>
 </root>
