@@ -1,8 +1,43 @@
 {
   "version": 2,
-  "dgSpecHash": "Qp23tEXfvCmoM+2LRehH4dcYCc8No+Z+lNV97wWsEN/4yNbcdXrxAV1GY77lQn9WGnnI1y01kjDAaU8ByuXHIA==",
+  "dgSpecHash": "pzfYhFXxD7q4pr0+U557VJFAB33g5wFHMcdwkU+IzlgcVisQXSoSbm7TQAFofpv3G/8GiqkNj8KafAh2HCnV0g==",
   "success": true,
   "projectFilePath": "C:\\Users\\edgar\\OneDrive\\Documents\\ProcesamientoImagenes\\ProcesamientoImagenes\\ProcesamientoImagenes.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\edgar\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\aforge.video\\2.2.5\\aforge.video.2.2.5.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\aforge.video.directshow\\2.2.5\\aforge.video.directshow.2.2.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AForge 2.2.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "AForge",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AForge.Video 2.2.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "AForge.Video",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AForge.Video.DirectShow 2.2.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "AForge.Video.DirectShow",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
